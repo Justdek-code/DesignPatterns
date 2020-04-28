@@ -6,3 +6,4 @@
 * ### [Prototype](https://github.com/Justdek-code/DesignPatterns/tree/master/Prototype)
 * ### [Singleton](https://github.com/Justdek-code/DesignPatterns/tree/master/Singleton)
 * ### [Adapter](https://github.com/Justdek-code/DesignPatterns/tree/master/Adapter)
+* ### [Composite](https://github.com/Justdek-code/DesignPatterns/tree/master/Composite)
